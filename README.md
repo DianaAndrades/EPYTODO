@@ -24,7 +24,7 @@
 <p>To compile and run the EpyTodo program, follow these steps:</p>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your-username/epytodo.git</code></pre>
+    <pre><code>git clone https://github.com/DianaAndrades/EPYTODO.git</code></pre>
     <li>Navigate to the project directory:</li>
     <pre><code>cd epytodo</code></pre>
     <li>Install the dependencies:</li>
